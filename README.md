@@ -3,7 +3,7 @@
 
 # インストール方法
 ```
-$ git clone git@github.com:shuma-300/robosys202x.git
+$ git clone https://github.com/shuma-300/robosys202x.git
 $ cd robosys202x
 ```
 を実行
@@ -23,7 +23,7 @@ $ seq 10 | ./plus
 * python 3.7 ~ 3.10
   * テスト済み
 
-## テスト環境
+## 動作確認済み環境
 * Ubuntu 22.04.1LTS
 
 ## 著作権とライセンス
