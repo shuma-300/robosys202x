@@ -11,7 +11,6 @@ $ cd robosys202x
 
 ## plusコマンド
 ![test](https://github.com/shumaito/robosys202x/actions/workflows/test.yml/badge.svg)
-↑ テスト結果を反映したバッジの画像が埋め込まれる。
 
 * 標準入力から読み込んだ数字を足し、その合計を表示している。
 ## 実行例
