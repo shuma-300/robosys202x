@@ -1,7 +1,8 @@
 # robosys202x
+## このrobosys202xというリポジトリにはplusコマンドが含まれる
 * ロボットシステム学の練習用のリポジトリとして作成
 
-# インストール方法
+## インストール方法
 ```
 $ git clone https://github.com/shuma-300/robosys202x.git
 $ cd robosys202x
