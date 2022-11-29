@@ -10,7 +10,7 @@ $ cd robosys202x
 を実行
 
 ## plusコマンド
-![test](https://github.com/shumaito/robosys202x/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/shuma-300/robosys202x/actions/workflows/test.yml/badge.svg)
 
 * 標準入力から読み込んだ数字を足し、その合計を表示している。
 ## 実行例
