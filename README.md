@@ -1,5 +1,5 @@
 # robosys202x
-* このrobosys202xというリポジトリにはplusコマンドが含まれる
+* このrobosys202xというリポジトリにはplusコマンド(これは足し算のコマンドです)が含まれる
 * ロボットシステム学の練習用のリポジトリとして作成
 
 ## インストール方法
@@ -11,7 +11,6 @@ $ cd robosys202x
 
 ## plusコマンド
 ![test](https://github.com/shuma-300/robosys202x/actions/workflows/test.yml/badge.svg)
-* 足し算のコマンドのリポジトリ
 * 標準入力から読み込んだ数字を足し、その合計を表示している。
 ## 実行例
 ```
